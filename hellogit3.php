@@ -1,4 +1,3 @@
 <?php
-
-echo "new Hello World 3 v login";
+echo "new Hello World 3 v3";
 ?>
